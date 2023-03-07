@@ -1,1 +1,2 @@
-echo Kennwort1 | sudo -S cat /etc/shadow
+echo 
+ip --brief address show
